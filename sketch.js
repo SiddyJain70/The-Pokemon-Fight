@@ -100,9 +100,9 @@ function setup() {
   rules.scale=0.6;
   
   
-  continue1 = createSprite(650,500,0,0);
+  continue1 = createSprite(650,570,0,0);
   continue1.addImage(continue1Img);
-  continue1.scale=0.4;
+  continue1.scale=0.3;
   
     gameover.visible = false;
     restart.visible = false;
